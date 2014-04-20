@@ -1,0 +1,142 @@
+{
+     
+    "repChargeCat": [
+        {"title": "COMBINATION", "cat": "combination"},
+        {"title": "DRY", "cat": "dry"},
+        {"title": "OILY", "cat": "oily"},
+        {"title": "PROBLEM / ACNE", "cat": "acne"},
+        {"title": "SENSITIVE / REACTIVE", "cat": "reactive"},
+        {"title": "SUN-DAMAGED / MATURE", "cat": "mature"},
+        {"title": "FIRST SIGN OF AGING", "cat": "aging"}
+    ],
+    "repProducts": [
+        {
+            "name": "Biolight",
+            "detailImage": "img/products/facial/Biolight/biobody.png",
+            "head": "img/products/facial/Biolight/biohead.png",
+            "mask": "img/products/facial/Biolight/BiolightMiracleFacial.jpg",
+            "video": "img/products/facial/Biolight/20130801_Your_Post_Summer_Sun_Body_Care_Skin_Solution.mp4",
+            "category": "mature",
+            "display": "img/products/facial/Biolight/Biolightimg.jpg"
+        },
+        {
+            "name": "Cell Renewal",
+            "detailImage": "img/products/facial/CellRenewal/cellbody.png",
+            "head": "img/products/facial/CellRenewal/cellhead.png",
+            "mask": "img/products/facial/CellRenewal/Layer_4.jpg",
+            "video": "img/products/facial/CellRenewal/diy.mp4",
+            "category": "aging",
+            "display": "img/products/facial/CellRenewal/Cell-Renewalimg.png"
+        },
+        {
+            "name": "Hydra 4",
+            "detailImage": "img/products/facial/Hydra4/hydrabody.png",
+            "head": "img/products/facial/Hydra4/hydrahead.png",
+            "mask": "img/products/facial/Hydra4/Hydra4Facial.jpg",
+            "video": "img/products/facial/Hydra4/20130618_Quick_Relief_For_Rosacea_Sensitive_Skin_Flare_Up.mp4",
+            "category": "reactive",
+            "display": "img/products/facial/Hydra4/Hydra-4img.png"
+        },
+        {
+            "name": "Hydra Dew",
+            "detailImage": "img/products/facial/HydraDew/dewbody.png",
+            "head": "img/products/facial/HydraDew/dewhead.png",
+            "mask": "img/products/facial/HydraDew/hydramask.jpg",
+            "video": "img/products/facial/HydraDew/20130205_Skin_Highlighter_and_Illuminator_Tip.mp4",
+            "category": "dry",
+            "display": "img/products/facial/HydraDew/Hydra-Dewimg.png"
+        },
+        {
+            "name": "Hydra Medic",
+            "detailImage": "img/products/facial/HydraMedic/medicbody.png",
+            "head": "img/products/facial/HydraMedic/medichead.png",
+            "mask": "img/products/facial/HydraMedic/HydraMedicFacial.jpg",
+            "video": "img/products/facial/HydraMedic/20130605_How_To_Get_Rid_Of_An_Emergency_Pimple_Before_Big_Event.mp4",
+            "category": "acne",
+            "display": "img/products/facial/HydraMedic/Hydra-Medicimg.png"
+        },
+        {
+            "name": "Hydra Refine",
+            "detailImage": "img/products/facial/HydraRefine/refinebody.png",
+            "head": "img/products/facial/HydraRefine/refinehead.png",
+            "mask": "img/products/facial/HydraRefine/HydraRefineFacial.jpg",
+            "category": "oily",
+            "display": "img/products/facial/HydraRefine/Hydra-Refineimg.png"
+        },
+        {
+            "name": "Opti-Firm",
+            "detailImage": "img/products/facial/OptiFirm/optibody.png",
+            "head": "img/products/facial/OptiFirm/optihead.png",
+            "mask": "img/products/facial/OptiFirm/3_01190012.JPG",
+            "video": "img/products/facial/OptiFirm/20130612_How_to_Correctly_Apply_An_Eye_Cream.mp4",
+            "category": "mature",
+            "display": "img/products/facial/OptiFirm/OptiFirmimg.png"
+        },
+       {
+            "name": "T-Zone Balance",
+            "detailImage": "img/products/facial/TZone/tzonebody.png",
+            "head": "img/products/facial/TZone/tzonehead.png",
+            "mask": "img/products/facial/TZone/ClassicEuro.jpg",
+            "category": "combination",
+            "display": "img/products/facial/TZone/tzonebody.jpg"
+        },
+        {
+            "name": "Vita Cura",
+            "detailImage": "img/products/facial/VitaCura/vitabody.png",
+            "head": "img/products/facial/VitaCura/vitahead.png",
+            "mask": "img/products/facial/VitaCura/VitaCuraFacial.JPG",
+            "video": "img/products/facial/VitaCura/20130312_How_to_Make_Your_Skin_Look_Smoother_and_Tighter_Instantly.mp4",
+            "category": "mature",
+            "display": "img/products/facial/VitaCura/Vita-Curaimg.png"
+        }
+
+    ],
+    "salonTech": [
+        {
+            
+            "images": ["img/products/hairtech/buttons/techB1.png", "img/products/hairtech/modals/techM1.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB2.png", "img/products/hairtech/modals/techM2.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB3.png", "img/products/hairtech/modals/techM3.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB4.png", "img/products/hairtech/modals/techM4.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB5.png", "img/products/hairtech/modals/techM5.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB6.png", "img/products/hairtech/modals/techM6.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB7.png", "img/products/hairtech/modals/techM7.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB8.png", "img/products/hairtech/modals/techM8.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB9.png", "img/products/hairtech/modals/techM9.png"]
+
+        },{
+            
+            "images": ["img/products/hairtech/buttons/techB10.png", "img/products/hairtech/modals/techM10.png"]
+
+        }  
+    ] 
+
+
+
+}
+
+

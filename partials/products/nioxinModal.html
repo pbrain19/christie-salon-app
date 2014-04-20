@@ -1,0 +1,22 @@
+
+<div class="modal-body"> 
+
+    <div ng-switch="nioxinMPivot">
+        <div ng-switch-default class="span12"> 
+            <img ng-src="{{currentItem.images[1]}}" alt="Product Images">
+            <button class="mButton nioxinMbutton"  ng-click="changeBuy()">BUY NOW</button>
+            <button class="mButton nioxinMbutton"  ng-click="changeShare()">SHARE NOW</button>
+
+        </div>
+        <div ng-switch-when="buyThis">            
+            <img src="img/buyMod.png">
+        </div> 
+        <div ng-switch-when="shareThis">
+          
+            <img src="img/shareMod.png">
+        </div> 
+
+    </div>
+
+
+</div>
